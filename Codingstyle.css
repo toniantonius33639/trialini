@@ -1,0 +1,122 @@
+*,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.navigation-bar {
+    background-color: aquamarine;
+   
+    height: 100px;
+   
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.Home {
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: flex;
+        font-size: 30px;
+        margin: 4px 2px;
+        cursor:pointer;
+        border-radius: 10px;
+    
+.ahome{
+    text-decoration: none;
+    color: black;
+}       
+                    
+}
+.Home:hover {
+background-color: green;
+}
+.Home:active {
+    transform: scale(0.95);
+}
+.About-Me {
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: flex;
+font-size: 30px;
+margin: 4px 2px;
+cursor:pointer;
+border-radius: 10px;
+
+}
+.hobi-saya{
+    text-decoration: none;
+    color: black;
+}
+.instagram{
+    text-decoration: none;
+    color: black;
+    
+}
+.sosmed{
+    font-size: 20px;
+}
+.a-about{
+    text-decoration: none;
+    color: black;
+}
+
+.About-Me:hover {
+    background-color: green;
+}
+.About-Me:active {
+    transform: scale(0.95);
+}
+.Contact-Me {
+padding: 15px 32px;
+text-align:center;
+text-decoration: none;
+display: flex;
+font-size: 30px;
+margin: 4px 2px;
+cursor:pointer;
+border-radius: 10px;
+}
+.a-contact{
+    text-decoration: none;
+    color: black;
+}
+.Contact-Me:hover{
+    background-color: green;
+}
+.Contact-Me:active{
+    transform: scale(0.95);
+}
+.img-class{
+    width: 100%;
+    height: 90%;
+}
+.footer-container {
+    background-color: green;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1{
+    font-size: 20px;
+    font-style: italic;
+    font-style: bold;
+}
+
+.sayanama{
+    font-style:
+}
